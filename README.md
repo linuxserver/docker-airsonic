@@ -48,6 +48,7 @@ docker create \
 -v </path/to/other media>:/media \
 -e PGID=<gid> -e PUID=<uid> \
 -e CONTEXT_PATH=<url-base> \
+-e JAVA_OPTS=<options> \
 -e TZ=<timezone> \
 -p 4040:4040 \
 linuxserver/airsonic
@@ -76,6 +77,7 @@ http://192.168.x.x:8080 would show you what's running INSIDE the container on po
 | `-e PUID` | for UserID, see below for explanation |
 | `-e GUID` | for GroupID, see below for explanation |
 | `-e CONTEXT_PATH` | for setting url-base in reverse proxy setups - *optional* |
+| `-e JAVA_OPTS` | for passing additional java options - *optional* |
 | `-e TZ` | for setting timezone information, eg Europe/London |
 
 &nbsp;
@@ -100,6 +102,8 @@ In this instance `PUID=1001` and `PGID=1001`, to find yours use `id user` as bel
 Access WebUI at `<your-ip>:4040`.
 
 Default user/pass is admin/admin
+
+Extra java options can be passed with the JAVA_OPTS environment variable, eg `-e JAVA_OPTS="-Xmx256m -Xms256m"`
 
 &nbsp;
 
