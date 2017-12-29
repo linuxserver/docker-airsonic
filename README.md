@@ -31,8 +31,6 @@ The [LinuxServer.io][linuxserverurl] team brings you another image release featu
 
 Airsonic is a free, web-based media streamer, providing ubiquitious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.
 
-`IMPORTANT, replace all instances of linuxserver/airsonic with the correct dockerhub repo (ie linuxserver/plex) and airsonic information (ie, plex)`
-
 &nbsp;
 
 ## Usage
@@ -74,6 +72,7 @@ http://192.168.x.x:8080 would show you what's running INSIDE the container on po
 | `-v /media` | Location of other media - *optional* |
 | `-e PUID` | for UserID, see below for explanation |
 | `-e GUID` | for GroupID, see below for explanation |
+| `-e CONTEXT_PATH` | for setting url-base in reverse proxy setups - *optional* |
 | `-e TZ` | for setting timezone information, eg Europe/London |
 
 &nbsp;
@@ -95,8 +94,9 @@ In this instance `PUID=1001` and `PGID=1001`, to find yours use `id user` as bel
 
 ## Setting up the application
 
-Insert a basic user guide here to get a n00b up and running with the software inside the container. DELETE ME
+Access WebUI at `<your-ip>:4040`.
 
+Default user/pass is admin/admin
 
 &nbsp;
 
@@ -115,4 +115,4 @@ Insert a basic user guide here to get a n00b up and running with the software in
 
 |  Date | Changes |
 | :---: | --- |
-| dd.MM.yy |  Initial Release. |
+| 29.12.17 |  Initial Release. |
