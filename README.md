@@ -28,8 +28,11 @@ The [LinuxServer.io][linuxserverurl] team brings you another image release featu
  + security updates
 
 # linuxserver/airsonic
+[![](https://images.microbadger.com/badges/version/linuxserver/airsonic.svg)](https://microbadger.com/images/linuxserver/airsonic "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/linuxserver/airsonic.svg)](https://microbadger.com/images/linuxserver/airsonic "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/airsonic.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/linuxserver/airsonic.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/x86-64/x86-64-airsonic)](https://ci.linuxserver.io/job/Docker-Builders/job/x86-64/job/x86-64-airsonic/)
 
 Airsonic is a free, web-based media streamer, providing ubiquitious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.
+
+[![airsonic](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libresonic.png)][appurl]
 
 &nbsp;
 
