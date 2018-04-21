@@ -14,6 +14,7 @@ cd "${AIRSONIC_HOME}" || exit
 exec \
 	s6-setuidgid abc \
 	java -Dorg.eclipse.jetty.annotations.maxWait="${MAX_WAIT}" \
+	${JAVA_OPTS} \
 	-Dairsonic.home="${AIRSONIC_SETTINGS}" \
 	-Dairsonic.defaultMusicFolder=/music \
 	-Dairsonic.defaultPodcastFolder=/podcasts \
