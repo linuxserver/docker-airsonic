@@ -6,9 +6,6 @@
 # set url base to / if variable not set, readding leading slash if variable is set.
 URL_BASE="/${CONTEXT_PATH}"
 
-# default value for annotation timeout in seconds.
-MAX_WAIT=${MAX_WAIT:-1800}
-
 # add option to pass runtime arguments
 IFS=" " read -r -a RUN_ARRAY <<< "$JAVA_OPTS"
 
@@ -16,12 +13,14 @@ cd "${AIRSONIC_HOME}" || exit
 
 exec \
 	s6-setuidgid abc \
-	java -Dorg.eclipse.jetty.annotations.maxWait="${MAX_WAIT}" \
-	-Dairsonic.home="${AIRSONIC_SETTINGS}" \
+	java \
 	-Dairsonic.defaultMusicFolder=/music \
-	-Dairsonic.defaultPodcastFolder=/podcasts \
 	-Dairsonic.defaultPlaylistFolder=/playlists \
+	-Dairsonic.defaultPodcastFolder=/podcasts \
+	-Dairsonic.home="${AIRSONIC_SETTINGS}" \
+	-Djava.awt.headless=true \
+	-Dserver.contextPath="${URL_BASE}" \
+	-Dserver.host=0.0.0.0 \
+	-Dserver.port=4040 \
 	"${RUN_ARRAY[@]}" \
-	-jar /usr/share/java/jetty-runner.jar \
-	--host 0.0.0.0 --port 4040 --path "${URL_BASE}" \
-	airsonic.war
+	-jar airsonic.war
