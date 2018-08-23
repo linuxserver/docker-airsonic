@@ -122,5 +122,6 @@ Extra java options can be passed with the JAVA_OPTS environment variable, eg `-e
 
 |  Date | Changes |
 | :---: | --- |
+| 23.08.18 |  Rebase to ubuntu bionic for increased performance across all arch's. |
 | 22.04.18 |  Add the forgotten JAVA_OPTS to the run command. |
 | 29.12.17 |  Initial Release. |

@@ -1,4 +1,4 @@
-FROM lsiobase/alpine:3.7
+FROM lsiobase/ubuntu:bionic
 
 # set version label
 ARG BUILD_DATE
@@ -6,40 +6,24 @@ ARG VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="sparklyballs"
 
-# copy prebuild and war files
-COPY prebuilds/ /prebuilds/
-
-# package version settings
-ARG JETTY_VER="9.3.14.v20161028"
-
 # environment settings
+ARG DEBIAN_FRONTEND="noninteractive"
 ENV AIRSONIC_HOME="/app/airsonic" \
-AIRSONIC_SETTINGS="/config"
+AIRSONIC_SETTINGS="/config" \
+LANG="C.UTF-8"
 
 RUN \
- echo "**** install build packages ****" && \
- apk add --no-cache --virtual=build-dependencies \
-	curl \
-	openjdk8 \
-	tar && \
  echo "**** install runtime packages ****" && \
- apk add --no-cache \
+ apt-get update && \
+ apt-get install -y \
+	--no-install-recommends \
+	ca-certificates \
 	ffmpeg \
 	flac \
+	fontconfig \
 	lame \
-	openjdk8-jre \
+	openjdk-8-jre-headless \
 	ttf-dejavu && \
- echo "**** install jetty-runner ****" && \
- mkdir -p \
-	/tmp/jetty && \
- cp /prebuilds/* /tmp/jetty/ && \
- curl -o \
- /tmp/jetty/"jetty-runner-$JETTY_VER".jar -L \
-	"https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-runner/${JETTY_VER}/jetty-runner-{$JETTY_VER}.jar" && \
- cd /tmp/jetty && \
- install -m644 -D "jetty-runner-$JETTY_VER.jar" \
-	/usr/share/java/jetty-runner.jar && \
- install -m755 -D jetty-runner /usr/bin/jetty-runner && \
  echo "**** install airsonic ****" && \
  mkdir -p \
 	${AIRSONIC_HOME} && \
@@ -48,11 +32,13 @@ RUN \
  curl -o \
  ${AIRSONIC_HOME}/airsonic.war -L \
 	"https://github.com/airsonic/airsonic/releases/download/${AIRSONIC_VER}/airsonic.war" && \
+ echo "**** fix airsonic status page ****" && \
+ find / -name "accessibility.properties" -exec rm -f '{}' + && \
  echo "**** cleanup ****" && \
- apk del --purge \
-	build-dependencies && \
  rm -rf \
-	/tmp/*
+	/tmp/* \
+	/var/lib/apt/lists/* \
+	/var/tmp/*
 
 # add local files
 COPY root/ /
