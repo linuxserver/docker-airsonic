@@ -19,6 +19,7 @@ RUN \
 	--no-install-recommends \
 	ca-certificates \
 	ffmpeg \
+	flac \
 	fontconfig \
 	lame \
 	openjdk-8-jre-headless \
