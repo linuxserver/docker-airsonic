@@ -1,0 +1,29 @@
+---
+
+# jenkins variables
+project_name: docker-airsonic
+external_type: github_stable
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - EXT_GIT_BRANCH = 'master'
+  - EXT_USER = 'airsonic'
+  - EXT_REPO = 'airsonic'
+  - BUILD_VERSION_ARG = 'AIRSONIC_RELEASE'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-airsonic'
+  - CONTAINER_NAME = 'airsonic'
+  - DOCKERHUB_IMAGE = 'linuxserver/airsonic'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/airsonic'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/airsonic'
+  - DIST_IMAGE = 'ubuntu'
+  - MULTIARCH='true'
+  - CI='true'
+  - CI_WEB='true'
+  - CI_PORT='4040'
+  - CI_SSL='false'
+  - CI_DELAY='240'
+  - CI_DOCKERENV='TZ=US/Pacific'
+  - CI_AUTH='user:password'
+  - CI_WEBPATH=''
