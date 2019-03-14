@@ -154,7 +154,7 @@ libnettle6/now 3.4-1
 libnghttp2-14/now 1.30.0-1ubuntu1
 libnorm1/now 1.5r6+dfsg1-6
 libnspr4/now 2:4.18-1ubuntu1
-libnss3/now 2:3.35-2ubuntu2.1
+libnss3/now 2:3.35-2ubuntu2.2
 libnuma1/now 2.0.11-2.1
 libogg0/now 1.3.2-1
 libopenal-data/now 1:1.18.2-2
@@ -163,10 +163,10 @@ libopenjp2-7/now 2.3.0-1
 libopenmpt0/now 0.3.6-1
 libopus0/now 1.1.2-1ubuntu1
 libp11-kit0/now 0.23.9-2
-libpam-modules/now 1.1.8-3.6ubuntu2
-libpam-modules-bin/now 1.1.8-3.6ubuntu2
-libpam-runtime/now 1.1.8-3.6ubuntu2
-libpam0g/now 1.1.8-3.6ubuntu2
+libpam-modules/now 1.1.8-3.6ubuntu2.18.04.1
+libpam-modules-bin/now 1.1.8-3.6ubuntu2.18.04.1
+libpam-runtime/now 1.1.8-3.6ubuntu2.18.04.1
+libpam0g/now 1.1.8-3.6ubuntu2.18.04.1
 libpango-1.0-0/now 1.40.14-1ubuntu0.1
 libpangocairo-1.0-0/now 1.40.14-1ubuntu0.1
 libpangoft2-1.0-0/now 1.40.14-1ubuntu0.1
@@ -179,7 +179,7 @@ libpng16-16/now 1.6.34-1ubuntu0.18.04.1
 libpostproc54/now 7:3.4.4-0ubuntu0.18.04.1
 libprocps6/now 2:3.3.12-3ubuntu1.1
 libpsl5/now 0.19.1-5build1
-libpulse0/now 1:11.1-1ubuntu7.1
+libpulse0/now 1:11.1-1ubuntu7.2
 libraw1394-11/now 2.1.2-1
 libroken18-heimdal/now 7.5.0+dfsg-1
 librsvg2-2/now 2.40.20-2
@@ -242,9 +242,9 @@ libwebp6/now 0.6.1-2
 libwebpmux3/now 0.6.1-2
 libwind0-heimdal/now 7.5.0+dfsg-1
 libwrap0/now 7.6.q-27
-libx11-6/now 2:1.6.4-3ubuntu0.1
-libx11-data/now 2:1.6.4-3ubuntu0.1
-libx11-xcb1/now 2:1.6.4-3ubuntu0.1
+libx11-6/now 2:1.6.4-3ubuntu0.2
+libx11-data/now 2:1.6.4-3ubuntu0.2
+libx11-xcb1/now 2:1.6.4-3ubuntu0.2
 libx264-152/now 2:0.152.2854+gite9a5903-2
 libx265-146/now 2.6-3
 libxau6/now 1:1.0.8-1
