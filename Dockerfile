@@ -1,4 +1,4 @@
-FROM lsiobase/java:bionic
+FROM lsiobase/ubuntu:bionic
 
 # set version label
 ARG BUILD_DATE
@@ -13,6 +13,20 @@ AIRSONIC_SETTINGS="/config" \
 LANG="C.UTF-8"
 
 RUN \
+ echo "**** install runtime packages ****" && \
+ apt-get update && \
+ apt-get install -y \
+	--no-install-recommends \
+	ca-certificates \
+	ffmpeg \
+	flac \
+	fontconfig \
+	lame \
+	openjdk-8-jre-headless \
+	ttf-dejavu && \
+ echo "**** fix XXXsonic status page ****" && \
+ find /etc -name "accessibility.properties" -exec rm -fv '{}' + && \
+ find /usr -name "accessibility.properties" -exec rm -fv '{}' + && \
  echo "**** install airsonic ****" && \
  if [ -z ${AIRSONIC_RELEASE+x} ]; then \
  	AIRSONIC_RELEASE=$(curl -sX GET "https://api.github.com/repos/airsonic/airsonic/releases/latest" \
