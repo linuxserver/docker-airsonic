@@ -1,310 +1,305 @@
-adduser/now 3.116ubuntu1
-apt/now 1.6.8
-apt-utils/now 1.6.8
-base-files/now 10.1ubuntu2.4
-base-passwd/now 3.5.44
-bash/now 4.4.18-2ubuntu1
-bsdutils/now 1:2.31.1-0.4ubuntu3.3
-bzip2/now 1.0.6-8.1
-ca-certificates/now 20180409
-ca-certificates-java/now 20180516ubuntu1~18.04.1
-coreutils/now 8.28-1ubuntu1
-curl/now 7.58.0-2ubuntu3.6
-dash/now 0.5.8-2.10
-debconf/now 1.5.66
-debianutils/now 4.8.4
-diffutils/now 1:3.6-1
-dpkg/now 1.19.0.5ubuntu2.1
-e2fsprogs/now 1.44.1-1ubuntu1.1
-fdisk/now 2.31.1-0.4ubuntu3.3
-ffmpeg/now 7:3.4.4-0ubuntu0.18.04.1
-findutils/now 4.6.0+git+20170828-2
-flac/now 1.3.2-1
-fontconfig/now 2.12.6-0ubuntu2
-fontconfig-config/now 2.12.6-0ubuntu2
-fonts-dejavu/now 2.37-1
-fonts-dejavu-core/now 2.37-1
-fonts-dejavu-extra/now 2.37-1
-gcc-8-base/now 8.2.0-1ubuntu2~18.04
-gpgv/now 2.2.4-1ubuntu1.2
-grep/now 3.1-2
-gzip/now 1.6-5ubuntu1
-hostname/now 3.20
-init-system-helpers/now 1.51
-java-common/now 0.63ubuntu1~02
-krb5-locales/now 1.16-2ubuntu0.1
-lame/now 3.100-2
-libacl1/now 2.2.52-3build1
-libapt-inst2.0/now 1.6.8
-libapt-pkg5.0/now 1.6.8
-libasn1-8-heimdal/now 7.5.0+dfsg-1
-libasound2/now 1.1.3-5ubuntu0.2
-libasound2-data/now 1.1.3-5ubuntu0.2
-libass9/now 1:0.14.0-1
-libasyncns0/now 0.8-6
-libattr1/now 1:2.4.47-2build1
-libaudit-common/now 1:2.8.2-1ubuntu1
-libaudit1/now 1:2.8.2-1ubuntu1
-libavahi-client3/now 0.7-3.1ubuntu1.2
-libavahi-common-data/now 0.7-3.1ubuntu1.2
-libavahi-common3/now 0.7-3.1ubuntu1.2
-libavc1394-0/now 0.5.4-4build1
-libavcodec57/now 7:3.4.4-0ubuntu0.18.04.1
-libavdevice57/now 7:3.4.4-0ubuntu0.18.04.1
-libavfilter6/now 7:3.4.4-0ubuntu0.18.04.1
-libavformat57/now 7:3.4.4-0ubuntu0.18.04.1
-libavresample3/now 7:3.4.4-0ubuntu0.18.04.1
-libavutil55/now 7:3.4.4-0ubuntu0.18.04.1
-libblkid1/now 2.31.1-0.4ubuntu3.3
-libbluray2/now 1:1.0.2-3
-libbs2b0/now 3.1.0+dfsg-2.2
-libbsd0/now 0.8.7-1
-libbz2-1.0/now 1.0.6-8.1
-libc-bin/now 2.27-3ubuntu1
-libc6/now 2.27-3ubuntu1
-libcaca0/now 0.99.beta19-2ubuntu0.18.04.1
-libcairo2/now 1.15.10-2ubuntu0.1
-libcap-ng0/now 0.7.7-3.1
-libcdio-cdda2/now 10.2+0.94+2-2build1
-libcdio-paranoia2/now 10.2+0.94+2-2build1
-libcdio17/now 1.0.0-2ubuntu2
-libchromaprint1/now 1.4.3-1
-libcom-err2/now 1.44.1-1ubuntu1.1
-libcroco3/now 0.6.12-2
-libcrystalhd3/now 1:0.0~git20110715.fdd2f19-12
-libcups2/now 2.2.7-1ubuntu2.3
-libcurl4/now 7.58.0-2ubuntu3.6
-libdatrie1/now 0.2.10-7
-libdb5.3/now 5.3.28-13.1ubuntu1
-libdbus-1-3/now 1.12.2-1ubuntu1
-libdc1394-22/now 2.2.5-1
-libdebconfclient0/now 0.213ubuntu1
-libdrm-amdgpu1/now 2.4.95-1~18.04.1
-libdrm-common/now 2.4.95-1~18.04.1
-libdrm-intel1/now 2.4.95-1~18.04.1
-libdrm-nouveau2/now 2.4.95-1~18.04.1
-libdrm-radeon1/now 2.4.95-1~18.04.1
-libdrm2/now 2.4.95-1~18.04.1
-libedit2/now 3.1-20170329-1
-libegl-mesa0/now 18.2.2-0ubuntu1~18.04.2
-libegl1/now 1.0.0-2ubuntu2.2
-libelf1/now 0.170-0.4
-libexpat1/now 2.2.5-3
-libext2fs2/now 1.44.1-1ubuntu1.1
-libfdisk1/now 2.31.1-0.4ubuntu3.3
-libffi6/now 3.2.1-8
-libfftw3-double3/now 3.3.7-1
-libflac8/now 1.3.2-1
-libflite1/now 2.1-release-1
-libfontconfig1/now 2.12.6-0ubuntu2
-libfreetype6/now 2.8.1-2ubuntu2
-libfribidi0/now 0.19.7-2
-libgbm1/now 18.2.2-0ubuntu1~18.04.2
-libgcc1/now 1:8.2.0-1ubuntu2~18.04
-libgcrypt20/now 1.8.1-4ubuntu1.1
-libgdk-pixbuf2.0-0/now 2.36.11-2
-libgdk-pixbuf2.0-common/now 2.36.11-2
-libgl1/now 1.0.0-2ubuntu2.2
-libgl1-mesa-dri/now 18.2.2-0ubuntu1~18.04.2
-libglapi-mesa/now 18.2.2-0ubuntu1~18.04.2
-libglib2.0-0/now 2.56.3-0ubuntu0.18.04.1
-libglvnd0/now 1.0.0-2ubuntu2.2
-libglx-mesa0/now 18.2.2-0ubuntu1~18.04.2
-libglx0/now 1.0.0-2ubuntu2.2
-libgme0/now 0.6.2-1
-libgmp10/now 2:6.1.2+dfsg-2
-libgnutls30/now 3.5.18-1ubuntu1
-libgomp1/now 8.2.0-1ubuntu2~18.04
-libgpg-error0/now 1.27-6
-libgraphite2-3/now 1.3.11-2
-libgsm1/now 1.0.13-4build1
-libgssapi-krb5-2/now 1.16-2ubuntu0.1
-libgssapi3-heimdal/now 7.5.0+dfsg-1
-libharfbuzz0b/now 1.7.2-1ubuntu1
-libhcrypto4-heimdal/now 7.5.0+dfsg-1
-libheimbase1-heimdal/now 7.5.0+dfsg-1
-libheimntlm0-heimdal/now 7.5.0+dfsg-1
-libhogweed4/now 3.4-1
-libhx509-5-heimdal/now 7.5.0+dfsg-1
-libicu60/now 60.2-3ubuntu3
-libidn2-0/now 2.0.4-1.1build2
-libiec61883-0/now 1.2.0-2
-libjack-jackd2-0/now 1.9.12~dfsg-2
-libjbig0/now 2.1-3.1build1
-libjpeg-turbo8/now 1.5.2-0ubuntu5.18.04.1
-libjpeg8/now 8c-2ubuntu8
-libk5crypto3/now 1.16-2ubuntu0.1
-libkeyutils1/now 1.5.9-9.2ubuntu2
-libkrb5-26-heimdal/now 7.5.0+dfsg-1
-libkrb5-3/now 1.16-2ubuntu0.1
-libkrb5support0/now 1.16-2ubuntu0.1
-liblcms2-2/now 2.9-1ubuntu0.1
-libldap-2.4-2/now 2.4.45+dfsg-1ubuntu1.1
-libldap-common/now 2.4.45+dfsg-1ubuntu1.1
-libllvm7/now 1:7-3~ubuntu0.18.04.1
-liblz4-1/now 0.0~r131-2ubuntu3
-liblzma5/now 5.2.2-1.3
-libmount1/now 2.31.1-0.4ubuntu3.3
-libmp3lame0/now 3.100-2
-libmpg123-0/now 1.25.10-1
-libmysofa0/now 0.6~dfsg0-2
-libncurses5/now 6.1-1ubuntu1.18.04
-libncursesw5/now 6.1-1ubuntu1.18.04
-libnettle6/now 3.4-1
-libnghttp2-14/now 1.30.0-1ubuntu1
-libnorm1/now 1.5r6+dfsg1-6
-libnspr4/now 2:4.18-1ubuntu1
-libnss3/now 2:3.35-2ubuntu2.2
-libnuma1/now 2.0.11-2.1
-libogg0/now 1.3.2-1
-libopenal-data/now 1:1.18.2-2
-libopenal1/now 1:1.18.2-2
-libopenjp2-7/now 2.3.0-1
-libopenmpt0/now 0.3.6-1
-libopus0/now 1.1.2-1ubuntu1
-libp11-kit0/now 0.23.9-2
-libpam-modules/now 1.1.8-3.6ubuntu2.18.04.1
-libpam-modules-bin/now 1.1.8-3.6ubuntu2.18.04.1
-libpam-runtime/now 1.1.8-3.6ubuntu2.18.04.1
-libpam0g/now 1.1.8-3.6ubuntu2.18.04.1
-libpango-1.0-0/now 1.40.14-1ubuntu0.1
-libpangocairo-1.0-0/now 1.40.14-1ubuntu0.1
-libpangoft2-1.0-0/now 1.40.14-1ubuntu0.1
-libpciaccess0/now 0.14-1
-libpcre3/now 2:8.39-9
-libpcsclite1/now 1.8.23-1
-libpgm-5.2-0/now 5.2.122~dfsg-2
-libpixman-1-0/now 0.34.0-2
-libpng16-16/now 1.6.34-1ubuntu0.18.04.1
-libpostproc54/now 7:3.4.4-0ubuntu0.18.04.1
-libprocps6/now 2:3.3.12-3ubuntu1.1
-libpsl5/now 0.19.1-5build1
-libpulse0/now 1:11.1-1ubuntu7.2
-libraw1394-11/now 2.1.2-1
-libroken18-heimdal/now 7.5.0+dfsg-1
-librsvg2-2/now 2.40.20-2
-librtmp1/now 2.4+20151223.gitfa8646d.1-1
-librubberband2/now 1.8.1-7ubuntu2
-libsamplerate0/now 0.1.9-1
-libsasl2-2/now 2.1.27~101-g0780600+dfsg-3ubuntu2
-libsasl2-modules/now 2.1.27~101-g0780600+dfsg-3ubuntu2
-libsasl2-modules-db/now 2.1.27~101-g0780600+dfsg-3ubuntu2
-libsdl2-2.0-0/now 2.0.8+dfsg1-1ubuntu1.18.04.1
-libseccomp2/now 2.3.1-2.1ubuntu4.1
-libselinux1/now 2.7-2build2
-libsemanage-common/now 2.7-2build2
-libsemanage1/now 2.7-2build2
-libsensors4/now 1:3.4.0-4
-libsepol1/now 2.7-1
-libshine3/now 3.1.1-1
-libslang2/now 2.3.1a-3ubuntu1
-libsmartcols1/now 2.31.1-0.4ubuntu3.3
-libsnappy1v5/now 1.1.7-1
-libsndfile1/now 1.0.28-4
-libsndio6.1/now 1.1.0-3
-libsodium23/now 1.0.16-2
-libsoxr0/now 0.1.2-3
-libspeex1/now 1.2~rc1.2-1ubuntu2
-libsqlite3-0/now 3.22.0-1
-libss2/now 1.44.1-1ubuntu1.1
-libssh-gcrypt-4/now 0.8.0~20170825.94fa1e38-1ubuntu0.2
-libssl1.1/now 1.1.0g-2ubuntu4.3
-libstdc++6/now 8.2.0-1ubuntu2~18.04
-libswresample2/now 7:3.4.4-0ubuntu0.18.04.1
-libswscale4/now 7:3.4.4-0ubuntu0.18.04.1
-libsystemd0/now 237-3ubuntu10.15
-libtasn1-6/now 4.13-2
-libthai-data/now 0.1.27-2
-libthai0/now 0.1.27-2
-libtheora0/now 1.1.1+dfsg.1-14
-libtiff5/now 4.0.9-5ubuntu0.2
-libtinfo5/now 6.1-1ubuntu1.18.04
-libtwolame0/now 0.3.13-3
-libudev1/now 237-3ubuntu10.15
-libunistring2/now 0.9.9-0ubuntu1
-libusb-1.0-0/now 2:1.0.21-2
-libuuid1/now 2.31.1-0.4ubuntu3.3
-libva-drm2/now 2.1.0-3
-libva-x11-2/now 2.1.0-3
-libva2/now 2.1.0-3
-libvdpau1/now 1.1.1-3ubuntu1
-libvorbis0a/now 1.3.5-4.2
-libvorbisenc2/now 1.3.5-4.2
-libvorbisfile3/now 1.3.5-4.2
-libvpx5/now 1.7.0-3
-libwavpack1/now 5.1.0-2ubuntu1.2
-libwayland-client0/now 1.16.0-1ubuntu1.1~18.04.1
-libwayland-cursor0/now 1.16.0-1ubuntu1.1~18.04.1
-libwayland-egl1/now 1.16.0-1ubuntu1.1~18.04.1
-libwayland-egl1-mesa/now 18.2.2-0ubuntu1~18.04.2
-libwayland-server0/now 1.16.0-1ubuntu1.1~18.04.1
-libwebp6/now 0.6.1-2
-libwebpmux3/now 0.6.1-2
-libwind0-heimdal/now 7.5.0+dfsg-1
-libwrap0/now 7.6.q-27
-libx11-6/now 2:1.6.4-3ubuntu0.2
-libx11-data/now 2:1.6.4-3ubuntu0.2
-libx11-xcb1/now 2:1.6.4-3ubuntu0.2
-libx264-152/now 2:0.152.2854+gite9a5903-2
-libx265-146/now 2.6-3
-libxau6/now 1:1.0.8-1
-libxcb-dri2-0/now 1.13-2~ubuntu18.04
-libxcb-dri3-0/now 1.13-2~ubuntu18.04
-libxcb-glx0/now 1.13-2~ubuntu18.04
-libxcb-present0/now 1.13-2~ubuntu18.04
-libxcb-render0/now 1.13-2~ubuntu18.04
-libxcb-shape0/now 1.13-2~ubuntu18.04
-libxcb-shm0/now 1.13-2~ubuntu18.04
-libxcb-sync1/now 1.13-2~ubuntu18.04
-libxcb-xfixes0/now 1.13-2~ubuntu18.04
-libxcb1/now 1.13-2~ubuntu18.04
-libxcursor1/now 1:1.1.15-1
-libxdamage1/now 1:1.1.4-3
-libxdmcp6/now 1:1.1.2-3
-libxext6/now 2:1.3.3-1
-libxfixes3/now 1:5.0.3-1
-libxi6/now 2:1.7.9-1
-libxinerama1/now 2:1.1.3-1
-libxkbcommon0/now 0.8.0-1ubuntu0.1
-libxml2/now 2.9.4+dfsg1-6.1ubuntu1.2
-libxrandr2/now 2:1.5.1-1
-libxrender1/now 1:0.9.10-1
-libxshmfence1/now 1.3-1
-libxss1/now 1:1.2.2-1
-libxtst6/now 2:1.2.3-1
-libxv1/now 2:1.0.11-1
-libxvidcore4/now 2:1.3.5-1
-libxxf86vm1/now 1:1.1.4-1
-libzmq5/now 4.2.5-1ubuntu0.1
-libzstd1/now 1.3.3+dfsg-2ubuntu1
-libzvbi-common/now 0.2.35-13
-libzvbi0/now 0.2.35-13
-locales/now 2.27-3ubuntu1
-login/now 1:4.5-1ubuntu1
-lsb-base/now 9.20170808ubuntu1
-mawk/now 1.3.3-17ubuntu3
-mount/now 2.31.1-0.4ubuntu3.3
-multiarch-support/now 2.27-3ubuntu1
-ncurses-base/now 6.1-1ubuntu1.18.04
-ncurses-bin/now 6.1-1ubuntu1.18.04
-openjdk-8-jre-headless/now 8u191-b12-2ubuntu0.18.04.1
-openssl/now 1.1.0g-2ubuntu4.3
-passwd/now 1:4.5-1ubuntu1
-perl-base/now 5.26.1-6ubuntu0.3
-procps/now 2:3.3.12-3ubuntu1.1
-publicsuffix/now 20180223.1310-1
-sed/now 4.4-2
-sensible-utils/now 0.0.12
-shared-mime-info/now 1.9-2
-sysvinit-utils/now 2.88dsf-59.10ubuntu1
-tar/now 1.29b-2ubuntu0.1
-ttf-dejavu/now 2.37-1
-ttf-dejavu-core/now 2.37-1
-ttf-dejavu-extra/now 2.37-1
-tzdata/now 2018i-0ubuntu0.18.04
-ubuntu-keyring/now 2018.09.18.1~18.04.0
-ucf/now 3.0038
-util-linux/now 2.31.1-0.4ubuntu3.3
-x11-common/now 1:7.7+19ubuntu7.1
-xkb-data/now 2.23.1-1ubuntu1
-zlib1g/now 1:1.2.11.dfsg-0ubuntu2
+adduser3.116ubuntu1
+apt-utils1.6.8
+apt1.6.8
+base-files10.1ubuntu2.4
+base-passwd3.5.44
+bash4.4.18-2ubuntu1
+bsdutils1:2.31.1-0.4ubuntu3.3
+bzip21.0.6-8.1
+ca-certificates-java20180516ubuntu1~18.04.1
+ca-certificates20180409
+coreutils8.28-1ubuntu1
+curl7.58.0-2ubuntu3.6
+dash0.5.8-2.10
+debconf1.5.66
+debianutils4.8.4
+diffutils1:3.6-1
+dpkg1.19.0.5ubuntu2.1
+e2fsprogs1.44.1-1ubuntu1.1
+fdisk2.31.1-0.4ubuntu3.3
+ffmpeg7:3.4.4-0ubuntu0.18.04.1
+findutils4.6.0+git+20170828-2
+flac1.3.2-1
+fontconfig-config2.12.6-0ubuntu2
+fontconfig2.12.6-0ubuntu2
+fonts-dejavu-core2.37-1
+fonts-dejavu-extra2.37-1
+fonts-dejavu2.37-1
+gcc-8-base8.2.0-1ubuntu2~18.04
+gpgv2.2.4-1ubuntu1.2
+grep3.1-2
+gzip1.6-5ubuntu1
+hostname3.20
+init-system-helpers1.51
+java-common0.63ubuntu1~02
+krb5-locales1.16-2ubuntu0.1
+lame3.100-2
+libacl12.2.52-3build1
+libapt-inst2.01.6.8
+libapt-pkg5.01.6.8
+libasn1-8-heimdal7.5.0+dfsg-1
+libasound2-data1.1.3-5ubuntu0.2
+libasound21.1.3-5ubuntu0.2
+libass91:0.14.0-1
+libasyncns00.8-6
+libattr11:2.4.47-2build1
+libaudit-common1:2.8.2-1ubuntu1
+libaudit11:2.8.2-1ubuntu1
+libavahi-client30.7-3.1ubuntu1.2
+libavahi-common-data0.7-3.1ubuntu1.2
+libavahi-common30.7-3.1ubuntu1.2
+libavc1394-00.5.4-4build1
+libavcodec577:3.4.4-0ubuntu0.18.04.1
+libavdevice577:3.4.4-0ubuntu0.18.04.1
+libavfilter67:3.4.4-0ubuntu0.18.04.1
+libavformat577:3.4.4-0ubuntu0.18.04.1
+libavresample37:3.4.4-0ubuntu0.18.04.1
+libavutil557:3.4.4-0ubuntu0.18.04.1
+libblkid12.31.1-0.4ubuntu3.3
+libbluray21:1.0.2-3
+libbs2b03.1.0+dfsg-2.2
+libbsd00.8.7-1
+libbz2-1.01.0.6-8.1
+libc-bin2.27-3ubuntu1
+libc62.27-3ubuntu1
+libcaca00.99.beta19-2ubuntu0.18.04.1
+libcairo21.15.10-2ubuntu0.1
+libcap-ng00.7.7-3.1
+libcdio-cdda210.2+0.94+2-2build1
+libcdio-paranoia210.2+0.94+2-2build1
+libcdio171.0.0-2ubuntu2
+libchromaprint11.4.3-1
+libcom-err21.44.1-1ubuntu1.1
+libcroco30.6.12-2
+libcrystalhd31:0.0~git20110715.fdd2f19-12
+libcups22.2.7-1ubuntu2.4
+libcurl47.58.0-2ubuntu3.6
+libdatrie10.2.10-7
+libdb5.35.3.28-13.1ubuntu1
+libdbus-1-31.12.2-1ubuntu1
+libdc1394-222.2.5-1
+libdebconfclient00.213ubuntu1
+libdrm-amdgpu12.4.95-1~18.04.1
+libdrm-common2.4.95-1~18.04.1
+libdrm-intel12.4.95-1~18.04.1
+libdrm-nouveau22.4.95-1~18.04.1
+libdrm-radeon12.4.95-1~18.04.1
+libdrm22.4.95-1~18.04.1
+libedit23.1-20170329-1
+libelf10.170-0.4
+libexpat12.2.5-3
+libext2fs21.44.1-1ubuntu1.1
+libfdisk12.31.1-0.4ubuntu3.3
+libffi63.2.1-8
+libfftw3-double33.3.7-1
+libflac81.3.2-1
+libflite12.1-release-1
+libfontconfig12.12.6-0ubuntu2
+libfreetype62.8.1-2ubuntu2
+libfribidi00.19.7-2
+libgcc11:8.2.0-1ubuntu2~18.04
+libgcrypt201.8.1-4ubuntu1.1
+libgdk-pixbuf2.0-02.36.11-2
+libgdk-pixbuf2.0-common2.36.11-2
+libgl1-mesa-dri18.2.8-0ubuntu0~18.04.2
+libgl11.0.0-2ubuntu2.2
+libglapi-mesa18.2.8-0ubuntu0~18.04.2
+libglib2.0-02.56.3-0ubuntu0.18.04.1
+libglvnd01.0.0-2ubuntu2.2
+libglx-mesa018.2.8-0ubuntu0~18.04.2
+libglx01.0.0-2ubuntu2.2
+libgme00.6.2-1
+libgmp102:6.1.2+dfsg-2
+libgnutls303.5.18-1ubuntu1
+libgomp18.2.0-1ubuntu2~18.04
+libgpg-error01.27-6
+libgraphite2-31.3.11-2
+libgsm11.0.13-4build1
+libgssapi-krb5-21.16-2ubuntu0.1
+libgssapi3-heimdal7.5.0+dfsg-1
+libharfbuzz0b1.7.2-1ubuntu1
+libhcrypto4-heimdal7.5.0+dfsg-1
+libheimbase1-heimdal7.5.0+dfsg-1
+libheimntlm0-heimdal7.5.0+dfsg-1
+libhogweed43.4-1
+libhx509-5-heimdal7.5.0+dfsg-1
+libicu6060.2-3ubuntu3
+libidn2-02.0.4-1.1build2
+libiec61883-01.2.0-2
+libjack-jackd2-01.9.12~dfsg-2
+libjbig02.1-3.1build1
+libjpeg-turbo81.5.2-0ubuntu5.18.04.1
+libjpeg88c-2ubuntu8
+libk5crypto31.16-2ubuntu0.1
+libkeyutils11.5.9-9.2ubuntu2
+libkrb5-26-heimdal7.5.0+dfsg-1
+libkrb5-31.16-2ubuntu0.1
+libkrb5support01.16-2ubuntu0.1
+liblcms2-22.9-1ubuntu0.1
+libldap-2.4-22.4.45+dfsg-1ubuntu1.1
+libldap-common2.4.45+dfsg-1ubuntu1.1
+libllvm71:7-3~ubuntu0.18.04.1
+liblz4-10.0~r131-2ubuntu3
+liblzma55.2.2-1.3
+libmount12.31.1-0.4ubuntu3.3
+libmp3lame03.100-2
+libmpg123-01.25.10-1
+libmysofa00.6~dfsg0-2
+libncurses56.1-1ubuntu1.18.04
+libncursesw56.1-1ubuntu1.18.04
+libnettle63.4-1
+libnghttp2-141.30.0-1ubuntu1
+libnorm11.5r6+dfsg1-6
+libnspr42:4.18-1ubuntu1
+libnss32:3.35-2ubuntu2.2
+libnuma12.0.11-2.1
+libogg01.3.2-1
+libopenal-data1:1.18.2-2
+libopenal11:1.18.2-2
+libopenjp2-72.3.0-1
+libopenmpt00.3.6-1
+libopus01.1.2-1ubuntu1
+libp11-kit00.23.9-2
+libpam-modules-bin1.1.8-3.6ubuntu2.18.04.1
+libpam-modules1.1.8-3.6ubuntu2.18.04.1
+libpam-runtime1.1.8-3.6ubuntu2.18.04.1
+libpam0g1.1.8-3.6ubuntu2.18.04.1
+libpango-1.0-01.40.14-1ubuntu0.1
+libpangocairo-1.0-01.40.14-1ubuntu0.1
+libpangoft2-1.0-01.40.14-1ubuntu0.1
+libpciaccess00.14-1
+libpcre32:8.39-9
+libpcsclite11.8.23-1
+libpgm-5.2-05.2.122~dfsg-2
+libpixman-1-00.34.0-2
+libpng16-161.6.34-1ubuntu0.18.04.1
+libpostproc547:3.4.4-0ubuntu0.18.04.1
+libprocps62:3.3.12-3ubuntu1.1
+libpsl50.19.1-5build1
+libpulse01:11.1-1ubuntu7.2
+libraw1394-112.1.2-1
+libroken18-heimdal7.5.0+dfsg-1
+librsvg2-22.40.20-2
+librtmp12.4+20151223.gitfa8646d.1-1
+librubberband21.8.1-7ubuntu2
+libsamplerate00.1.9-1
+libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2
+libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2
+libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2
+libsdl2-2.0-02.0.8+dfsg1-1ubuntu1.18.04.3
+libseccomp22.3.1-2.1ubuntu4.1
+libselinux12.7-2build2
+libsemanage-common2.7-2build2
+libsemanage12.7-2build2
+libsensors41:3.4.0-4
+libsepol12.7-1
+libshine33.1.1-1
+libslang22.3.1a-3ubuntu1
+libsmartcols12.31.1-0.4ubuntu3.3
+libsnappy1v51.1.7-1
+libsndfile11.0.28-4
+libsndio6.11.1.0-3
+libsodium231.0.16-2
+libsoxr00.1.2-3
+libspeex11.2~rc1.2-1ubuntu2
+libsqlite3-03.22.0-1
+libss21.44.1-1ubuntu1.1
+libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.2
+libssl1.11.1.0g-2ubuntu4.3
+libstdc++68.2.0-1ubuntu2~18.04
+libswresample27:3.4.4-0ubuntu0.18.04.1
+libswscale47:3.4.4-0ubuntu0.18.04.1
+libsystemd0237-3ubuntu10.15
+libtasn1-64.13-2
+libthai-data0.1.27-2
+libthai00.1.27-2
+libtheora01.1.1+dfsg.1-14
+libtiff54.0.9-5ubuntu0.2
+libtinfo56.1-1ubuntu1.18.04
+libtwolame00.3.13-3
+libudev1237-3ubuntu10.15
+libunistring20.9.9-0ubuntu1
+libusb-1.0-02:1.0.21-2
+libuuid12.31.1-0.4ubuntu3.3
+libva-drm22.1.0-3
+libva-x11-22.1.0-3
+libva22.1.0-3
+libvdpau11.1.1-3ubuntu1
+libvorbis0a1.3.5-4.2
+libvorbisenc21.3.5-4.2
+libvorbisfile31.3.5-4.2
+libvpx51.7.0-3
+libwavpack15.1.0-2ubuntu1.2
+libwayland-client01.16.0-1ubuntu1.1~18.04.1
+libwayland-cursor01.16.0-1ubuntu1.1~18.04.1
+libwayland-egl11.16.0-1ubuntu1.1~18.04.1
+libwebp60.6.1-2
+libwebpmux30.6.1-2
+libwind0-heimdal7.5.0+dfsg-1
+libwrap07.6.q-27
+libx11-62:1.6.4-3ubuntu0.2
+libx11-data2:1.6.4-3ubuntu0.2
+libx11-xcb12:1.6.4-3ubuntu0.2
+libx264-1522:0.152.2854+gite9a5903-2
+libx265-1462.6-3
+libxau61:1.0.8-1
+libxcb-dri2-01.13-2~ubuntu18.04
+libxcb-dri3-01.13-2~ubuntu18.04
+libxcb-glx01.13-2~ubuntu18.04
+libxcb-present01.13-2~ubuntu18.04
+libxcb-render01.13-2~ubuntu18.04
+libxcb-shape01.13-2~ubuntu18.04
+libxcb-shm01.13-2~ubuntu18.04
+libxcb-sync11.13-2~ubuntu18.04
+libxcb-xfixes01.13-2~ubuntu18.04
+libxcb11.13-2~ubuntu18.04
+libxcursor11:1.1.15-1
+libxdamage11:1.1.4-3
+libxdmcp61:1.1.2-3
+libxext62:1.3.3-1
+libxfixes31:5.0.3-1
+libxi62:1.7.9-1
+libxinerama12:1.1.3-1
+libxkbcommon00.8.0-1ubuntu0.1
+libxml22.9.4+dfsg1-6.1ubuntu1.2
+libxrandr22:1.5.1-1
+libxrender11:0.9.10-1
+libxshmfence11.3-1
+libxss11:1.2.2-1
+libxtst62:1.2.3-1
+libxv12:1.0.11-1
+libxvidcore42:1.3.5-1
+libxxf86vm11:1.1.4-1
+libzmq54.2.5-1ubuntu0.1
+libzstd11.3.3+dfsg-2ubuntu1
+libzvbi-common0.2.35-13
+libzvbi00.2.35-13
+locales2.27-3ubuntu1
+login1:4.5-1ubuntu1
+lsb-base9.20170808ubuntu1
+mawk1.3.3-17ubuntu3
+mount2.31.1-0.4ubuntu3.3
+multiarch-support2.27-3ubuntu1
+ncurses-base6.1-1ubuntu1.18.04
+ncurses-bin6.1-1ubuntu1.18.04
+openjdk-8-jre-headless8u191-b12-2ubuntu0.18.04.1
+openssl1.1.0g-2ubuntu4.3
+passwd1:4.5-1ubuntu1
+perl-base5.26.1-6ubuntu0.3
+procps2:3.3.12-3ubuntu1.1
+publicsuffix20180223.1310-1
+sed4.4-2
+sensible-utils0.0.12
+shared-mime-info1.9-2
+sysvinit-utils2.88dsf-59.10ubuntu1
+tar1.29b-2ubuntu0.1
+ttf-dejavu-core2.37-1
+ttf-dejavu-extra2.37-1
+ttf-dejavu2.37-1
+tzdata2018i-0ubuntu0.18.04
+ubuntu-keyring2018.09.18.1~18.04.0
+ucf3.0038
+util-linux2.31.1-0.4ubuntu3.3
+x11-common1:7.7+19ubuntu7.1
+xkb-data2.23.1-1ubuntu1
+zlib1g1:1.2.11.dfsg-0ubuntu2
