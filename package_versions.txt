@@ -31,7 +31,7 @@ grep3.1-2
 gzip1.6-5ubuntu1
 hostname3.20
 init-system-helpers1.51
-java-common0.63ubuntu1~02
+java-common0.68ubuntu1~18.04.1
 krb5-locales1.16-2ubuntu0.1
 lame3.100-2
 libacl12.2.52-3build1
