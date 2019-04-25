@@ -209,7 +209,7 @@ libssl1.11.1.0g-2ubuntu4.3
 libstdc++68.2.0-1ubuntu2~18.04
 libswresample27:3.4.4-0ubuntu0.18.04.1
 libswscale47:3.4.4-0ubuntu0.18.04.1
-libsystemd0237-3ubuntu10.19
+libsystemd0237-3ubuntu10.20
 libtasn1-64.13-2
 libthai-data0.1.27-2
 libthai00.1.27-2
@@ -217,7 +217,7 @@ libtheora01.1.1+dfsg.1-14
 libtiff54.0.9-5ubuntu0.2
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
-libudev1237-3ubuntu10.19
+libudev1237-3ubuntu10.20
 libunistring20.9.9-0ubuntu2
 libusb-1.0-02:1.0.21-2
 libuuid12.31.1-0.4ubuntu3.3
@@ -296,7 +296,7 @@ tar1.29b-2ubuntu0.1
 ttf-dejavu-core2.37-1
 ttf-dejavu-extra2.37-1
 ttf-dejavu2.37-1
-tzdata2018i-0ubuntu0.18.04
+tzdata2019a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ucf3.0038
 util-linux2.31.1-0.4ubuntu3.3
