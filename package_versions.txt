@@ -17,7 +17,7 @@ diffutils1:3.6-1
 dpkg1.19.0.5ubuntu2.1
 e2fsprogs1.44.1-1ubuntu1.1
 fdisk2.31.1-0.4ubuntu3.3
-ffmpeg7:3.4.4-0ubuntu0.18.04.1
+ffmpeg7:3.4.6-0ubuntu0.18.04.1
 findutils4.6.0+git+20170828-2
 flac1.3.2-1
 fontconfig-config2.12.6-0ubuntu2
@@ -49,12 +49,12 @@ libavahi-client30.7-3.1ubuntu1.2
 libavahi-common-data0.7-3.1ubuntu1.2
 libavahi-common30.7-3.1ubuntu1.2
 libavc1394-00.5.4-4build1
-libavcodec577:3.4.4-0ubuntu0.18.04.1
-libavdevice577:3.4.4-0ubuntu0.18.04.1
-libavfilter67:3.4.4-0ubuntu0.18.04.1
-libavformat577:3.4.4-0ubuntu0.18.04.1
-libavresample37:3.4.4-0ubuntu0.18.04.1
-libavutil557:3.4.4-0ubuntu0.18.04.1
+libavcodec577:3.4.6-0ubuntu0.18.04.1
+libavdevice577:3.4.6-0ubuntu0.18.04.1
+libavfilter67:3.4.6-0ubuntu0.18.04.1
+libavformat577:3.4.6-0ubuntu0.18.04.1
+libavresample37:3.4.6-0ubuntu0.18.04.1
+libavutil557:3.4.6-0ubuntu0.18.04.1
 libblkid12.31.1-0.4ubuntu3.3
 libbluray21:1.0.2-3
 libbs2b03.1.0+dfsg-2.2
@@ -173,7 +173,7 @@ libpcsclite11.8.23-1
 libpgm-5.2-05.2.122~dfsg-2
 libpixman-1-00.34.0-2
 libpng16-161.6.34-1ubuntu0.18.04.2
-libpostproc547:3.4.4-0ubuntu0.18.04.1
+libpostproc547:3.4.6-0ubuntu0.18.04.1
 libprocps62:3.3.12-3ubuntu1.1
 libpsl50.19.1-5build1
 libpulse01:11.1-1ubuntu7.2
@@ -207,8 +207,8 @@ libss21.44.1-1ubuntu1.1
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.2
 libssl1.11.1.0g-2ubuntu4.3
 libstdc++68.3.0-6ubuntu1~18.04
-libswresample27:3.4.4-0ubuntu0.18.04.1
-libswscale47:3.4.4-0ubuntu0.18.04.1
+libswresample27:3.4.6-0ubuntu0.18.04.1
+libswscale47:3.4.6-0ubuntu0.18.04.1
 libsystemd0237-3ubuntu10.21
 libtasn1-64.13-2
 libthai-data0.1.27-2
