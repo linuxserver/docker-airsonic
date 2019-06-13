@@ -1,6 +1,6 @@
 adduser3.116ubuntu1
-apt-utils1.6.10
-apt1.6.10
+apt-utils1.6.11
+apt1.6.11
 base-files10.1ubuntu2.4
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.1
@@ -35,8 +35,8 @@ java-common0.68ubuntu1~18.04.1
 krb5-locales1.16-2ubuntu0.1
 lame3.100-2
 libacl12.2.52-3build1
-libapt-inst2.01.6.10
-libapt-pkg5.01.6.10
+libapt-inst2.01.6.11
+libapt-pkg5.01.6.11
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound2-data1.1.3-5ubuntu0.2
 libasound21.1.3-5ubuntu0.2
@@ -72,11 +72,11 @@ libchromaprint11.4.3-1
 libcom-err21.44.1-1ubuntu1.1
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
-libcups22.2.7-1ubuntu2.5
+libcups22.2.7-1ubuntu2.6
 libcurl47.58.0-2ubuntu3.7
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
-libdbus-1-31.12.2-1ubuntu1
+libdbus-1-31.12.2-1ubuntu1.1
 libdc1394-222.2.5-1
 libdebconfclient00.213ubuntu1
 libdrm-amdgpu12.4.95-1~18.04.1
@@ -86,7 +86,7 @@ libdrm-nouveau22.4.95-1~18.04.1
 libdrm-radeon12.4.95-1~18.04.1
 libdrm22.4.95-1~18.04.1
 libedit23.1-20170329-1
-libelf10.170-0.4
+libelf10.170-0.4ubuntu0.1
 libexpat12.2.5-3
 libext2fs21.44.1-1ubuntu1.1
 libfdisk12.31.1-0.4ubuntu3.3
@@ -104,7 +104,7 @@ libgdk-pixbuf2.0-common2.36.11-2
 libgl1-mesa-dri18.2.8-0ubuntu0~18.04.2
 libgl11.0.0-2ubuntu2.3
 libglapi-mesa18.2.8-0ubuntu0~18.04.2
-libglib2.0-02.56.4-0ubuntu0.18.04.2
+libglib2.0-02.56.4-0ubuntu0.18.04.3
 libglvnd01.0.0-2ubuntu2.3
 libglx-mesa018.2.8-0ubuntu0~18.04.2
 libglx01.0.0-2ubuntu2.3
@@ -197,7 +197,7 @@ libshine33.1.1-1
 libslang22.3.1a-3ubuntu1
 libsmartcols12.31.1-0.4ubuntu3.3
 libsnappy1v51.1.7-1
-libsndfile11.0.28-4
+libsndfile11.0.28-4ubuntu0.18.04.1
 libsndio6.11.1.0-3
 libsodium231.0.16-2
 libsoxr00.1.2-3
@@ -205,7 +205,7 @@ libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1
 libss21.44.1-1ubuntu1.1
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.2
-libssl1.11.1.0g-2ubuntu4.3
+libssl1.11.1.1-1ubuntu2.1~18.04.1
 libstdc++68.3.0-6ubuntu1~18.04
 libswresample27:3.4.6-0ubuntu0.18.04.1
 libswscale47:3.4.6-0ubuntu0.18.04.1
@@ -283,7 +283,7 @@ multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openjdk-8-jre-headless8u212-b03-0ubuntu1.18.04.1
-openssl1.1.0g-2ubuntu4.3
+openssl1.1.1-1ubuntu2.1~18.04.1
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.3
 procps2:3.3.12-3ubuntu1.1
