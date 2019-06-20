@@ -25,7 +25,7 @@ fontconfig2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
 fonts-dejavu-extra2.37-1
 fonts-dejavu2.37-1
-gcc-8-base8.3.0-6ubuntu1~18.04
+gcc-8-base8.3.0-6ubuntu1~18.04.1
 gpgv2.2.4-1ubuntu1.2
 grep3.1-2
 gzip1.6-5ubuntu1
@@ -97,7 +97,7 @@ libflite12.1-release-1
 libfontconfig12.12.6-0ubuntu2
 libfreetype62.8.1-2ubuntu2
 libfribidi00.19.7-2
-libgcc11:8.3.0-6ubuntu1~18.04
+libgcc11:8.3.0-6ubuntu1~18.04.1
 libgcrypt201.8.1-4ubuntu1.1
 libgdk-pixbuf2.0-02.36.11-2
 libgdk-pixbuf2.0-common2.36.11-2
@@ -111,7 +111,7 @@ libglx01.0.0-2ubuntu2.3
 libgme00.6.2-1
 libgmp102:6.1.2+dfsg-2
 libgnutls303.5.18-1ubuntu1.1
-libgomp18.3.0-6ubuntu1~18.04
+libgomp18.3.0-6ubuntu1~18.04.1
 libgpg-error01.27-6
 libgraphite2-31.3.11-2
 libgsm11.0.13-4build1
@@ -205,11 +205,11 @@ libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1
 libss21.44.1-1ubuntu1.1
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.2
-libssl1.11.1.1-1ubuntu2.1~18.04.1
-libstdc++68.3.0-6ubuntu1~18.04
+libssl1.11.1.1-1ubuntu2.1~18.04.2
+libstdc++68.3.0-6ubuntu1~18.04.1
 libswresample27:3.4.6-0ubuntu0.18.04.1
 libswscale47:3.4.6-0ubuntu0.18.04.1
-libsystemd0237-3ubuntu10.21
+libsystemd0237-3ubuntu10.22
 libtasn1-64.13-2
 libthai-data0.1.27-2
 libthai00.1.27-2
@@ -217,7 +217,7 @@ libtheora01.1.1+dfsg.1-14
 libtiff54.0.9-5ubuntu0.2
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
-libudev1237-3ubuntu10.21
+libudev1237-3ubuntu10.22
 libunistring20.9.9-0ubuntu2
 libusb-1.0-02:1.0.21-2
 libuuid12.31.1-0.4ubuntu3.3
@@ -283,7 +283,7 @@ multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openjdk-8-jre-headless8u212-b03-0ubuntu1.18.04.1
-openssl1.1.1-1ubuntu2.1~18.04.1
+openssl1.1.1-1ubuntu2.1~18.04.2
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.3
 procps2:3.3.12-3ubuntu1.1
