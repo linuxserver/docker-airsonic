@@ -72,7 +72,7 @@ libchromaprint11.4.3-1
 libcom-err21.44.1-1ubuntu1.1
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
-libcups22.2.7-1ubuntu2.6
+libcups22.2.7-1ubuntu2.7
 libcurl47.58.0-2ubuntu3.7
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
@@ -156,7 +156,7 @@ libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
 libopenal-data1:1.18.2-2
 libopenal11:1.18.2-2
-libopenjp2-72.3.0-1
+libopenjp2-72.3.0-2build0.18.04.1
 libopenmpt00.3.6-1
 libopus01.1.2-1ubuntu1
 libp11-kit00.23.9-2
