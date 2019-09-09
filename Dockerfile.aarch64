@@ -22,7 +22,7 @@ RUN \
 	flac \
 	fontconfig \
 	lame \
-	openjdk-8-jre-headless \
+	openjdk-8-jre \
 	ttf-dejavu && \
  echo "**** fix XXXsonic status page ****" && \
  find /etc -name "accessibility.properties" -exec rm -fv '{}' + && \
