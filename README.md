@@ -71,6 +71,8 @@ docker create \
   -v </path/to/playlists>:/playlists \
   -v </path/to/podcasts>:/podcasts \
   -v </path/to/other media>:/media `#optional` \
+  -v </path/to/sound.properties>:/etc/java-8-openjdk/sound.properties `#optional` \
+  --device /dev/snd:/dev/snd `#optional` \
   --restart unless-stopped \
   linuxserver/airsonic
 ```
@@ -99,6 +101,9 @@ services:
       - </path/to/playlists>:/playlists
       - </path/to/podcasts>:/podcasts
       - </path/to/other media>:/media #optional
+      - </path/to/sound.properties>:/etc/java-8-openjdk/sound.properties #optional
+    devices:
+      - /dev/snd:/dev/snd #optional
     ports:
       - 4040:4040
     restart: unless-stopped
@@ -121,12 +126,16 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-v /playlists` | Location for playlists to be saved to. |
 | `-v /podcasts` | Location of podcasts. |
 | `-v /media` | Location of other media. |
+| `-v /etc/java-8-openjdk/sound.properties` | Sound configuration for Airsonic's Java jukebox player. |
+| `--device /dev/snd:/dev/snd` | Host sound device to pass to Airsonic's Java jukebox player. |
 
 ## User / Group Identifiers
 
 When using volumes (`-v` flags) permissions issues can arise between the host OS and the container, we avoid this issue by allowing you to specify the user `PUID` and group `PGID`.
 
 Ensure any volume directories on the host are owned by the same user you specify and any permissions issues will vanish like magic.
+
+Additionally, if you want to use [Airsonic's Java jukebox player](https://airsonic.github.io/docs/jukebox/), then `PGID` will need to match the group of your sound device (e.g. `/dev/snd`).
 
 In this instance `PUID=1000` and `PGID=1000`, to find yours use `id user` as below:
 
