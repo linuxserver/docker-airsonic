@@ -71,7 +71,6 @@ docker create \
   -v </path/to/playlists>:/playlists \
   -v </path/to/podcasts>:/podcasts \
   -v </path/to/other media>:/media `#optional` \
-  -v </path/to/sound.properties>:/etc/java-8-openjdk/sound.properties `#optional` \
   --device /dev/snd:/dev/snd `#optional` \
   --restart unless-stopped \
   linuxserver/airsonic
@@ -101,7 +100,6 @@ services:
       - </path/to/playlists>:/playlists
       - </path/to/podcasts>:/podcasts
       - </path/to/other media>:/media #optional
-      - </path/to/sound.properties>:/etc/java-8-openjdk/sound.properties #optional
     devices:
       - /dev/snd:/dev/snd #optional
     ports:
@@ -126,7 +124,6 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-v /playlists` | Location for playlists to be saved to. |
 | `-v /podcasts` | Location of podcasts. |
 | `-v /media` | Location of other media. |
-| `-v /etc/java-8-openjdk/sound.properties` | Sound configuration for Airsonic's Java jukebox player. |
 | `--device /dev/snd:/dev/snd` | Host sound device to pass to Airsonic's Java jukebox player. |
 
 ## User / Group Identifiers
