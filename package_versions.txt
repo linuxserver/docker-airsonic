@@ -14,8 +14,8 @@ dash0.5.8-2.10
 debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
-dpkg1.19.0.5ubuntu2.2
-e2fsprogs1.44.1-1ubuntu1.1
+dpkg1.19.0.5ubuntu2.3
+e2fsprogs1.44.1-1ubuntu1.2
 fdisk2.31.1-0.4ubuntu3.4
 ffmpeg7:3.4.6-0ubuntu0.18.04.1
 findutils4.6.0+git+20170828-2
@@ -27,7 +27,7 @@ fonts-dejavu-extra2.37-1
 fonts-dejavu2.37-1
 gcc-8-base8.3.0-6ubuntu1~18.04.1
 gpgv2.2.4-1ubuntu1.2
-grep3.1-2
+grep3.1-2build1
 gzip1.6-5ubuntu1
 hostname3.20
 init-system-helpers1.51
@@ -69,7 +69,7 @@ libcdio-cdda210.2+0.94+2-2build1
 libcdio-paranoia210.2+0.94+2-2build1
 libcdio171.0.0-2ubuntu2
 libchromaprint11.4.3-1
-libcom-err21.44.1-1ubuntu1.1
+libcom-err21.44.1-1ubuntu1.2
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.7
@@ -86,9 +86,11 @@ libdrm-nouveau22.4.97-1ubuntu1~18.04.1
 libdrm-radeon12.4.97-1ubuntu1~18.04.1
 libdrm22.4.97-1ubuntu1~18.04.1
 libedit23.1-20170329-1
+libegl-mesa019.0.8-0ubuntu0~18.04.2
+libegl11.0.0-2ubuntu2.3
 libelf10.170-0.4ubuntu0.1
 libexpat12.2.5-3ubuntu0.2
-libext2fs21.44.1-1ubuntu1.1
+libext2fs21.44.1-1ubuntu1.2
 libfdisk12.31.1-0.4ubuntu3.4
 libffi63.2.1-8
 libfftw3-double33.3.7-1
@@ -97,6 +99,7 @@ libflite12.1-release-1
 libfontconfig12.12.6-0ubuntu2
 libfreetype62.8.1-2ubuntu2
 libfribidi00.19.7-2
+libgbm119.0.8-0ubuntu0~18.04.2
 libgcc11:8.3.0-6ubuntu1~18.04.1
 libgcrypt201.8.1-4ubuntu1.1
 libgdk-pixbuf2.0-02.36.11-2
@@ -186,7 +189,7 @@ libsamplerate00.1.9-1
 libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2
 libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2
 libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2
-libsdl2-2.0-02.0.8+dfsg1-1ubuntu1.18.04.3
+libsdl2-2.0-02.0.8+dfsg1-1ubuntu1.18.04.4
 libseccomp22.4.1-0ubuntu0.18.04.2
 libselinux12.7-2build2
 libsemanage-common2.7-2build2
@@ -203,7 +206,7 @@ libsodium231.0.16-2
 libsoxr00.1.2-3
 libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.1
-libss21.44.1-1ubuntu1.1
+libss21.44.1-1ubuntu1.2
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.2
 libssl1.11.1.1-1ubuntu2.1~18.04.4
 libstdc++68.3.0-6ubuntu1~18.04.1
@@ -232,7 +235,9 @@ libvpx51.7.0-3
 libwavpack15.1.0-2ubuntu1.4
 libwayland-client01.16.0-1ubuntu1.1~18.04.1
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.1
+libwayland-egl1-mesa19.0.8-0ubuntu0~18.04.2
 libwayland-egl11.16.0-1ubuntu1.1~18.04.1
+libwayland-server01.16.0-1ubuntu1.1~18.04.1
 libwebp60.6.1-2
 libwebpmux30.6.1-2
 libwind0-heimdal7.5.0+dfsg-1
