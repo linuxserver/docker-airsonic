@@ -104,10 +104,10 @@ services:
       - </path/to/playlists>:/playlists
       - </path/to/podcasts>:/podcasts
       - </path/to/other media>:/media #optional
-    devices:
-      - /dev/snd:/dev/snd #optional
     ports:
       - 4040:4040
+    devices:
+      - /dev/snd:/dev/snd #optional
     restart: unless-stopped
 ```
 
@@ -128,7 +128,7 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-v /playlists` | Location for playlists to be saved to. |
 | `-v /podcasts` | Location of podcasts. |
 | `-v /media` | Location of other media. |
-| `--device /dev/snd:/dev/snd` | Host sound device to pass to Airsonic's Java jukebox player. |
+| `--device /dev/snd` | Only needed to pass your host sound device to Airsonic's Java jukebox player. |
 
 ## Environment variables from files (Docker secrets)
 
@@ -148,8 +148,6 @@ When using volumes (`-v` flags) permissions issues can arise between the host OS
 
 Ensure any volume directories on the host are owned by the same user you specify and any permissions issues will vanish like magic.
 
-Additionally, if you want to use [Airsonic's Java jukebox player](https://airsonic.github.io/docs/jukebox/), then `PGID` will need to match the group of your sound device (e.g. `/dev/snd`).
-
 In this instance `PUID=1000` and `PGID=1000`, to find yours use `id user` as below:
 
 ```
@@ -166,6 +164,8 @@ Access WebUI at `<your-ip>:4040`.
 Default user/pass is admin/admin
 
 Extra java options can be passed with the JAVA_OPTS environment variable, eg `-e JAVA_OPTS="-Xmx256m -Xms256m"`. For some reverse proxies, you may need to pass `JAVA_OPTS=-Dserver.use-forward-headers=true` for airsonic to generate the proper URL schemes.
+
+Note that if you want to use [Airsonic's Java jukebox player](https://airsonic.github.io/docs/jukebox/), then `PGID` will need to match the group of your sound device (e.g. `/dev/snd`).
 
 
 
