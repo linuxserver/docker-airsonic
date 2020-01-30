@@ -16,7 +16,7 @@ debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
 dpkg1.19.0.5ubuntu2.3
-e2fsprogs1.44.1-1ubuntu1.2
+e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.4
 ffmpeg7:3.4.6-0ubuntu0.18.04.1
 findutils4.6.0+git+20170828-2
@@ -79,7 +79,7 @@ libcdio-cdda210.2+0.94+2-2build1
 libcdio-paranoia210.2+0.94+2-2build1
 libcdio171.0.0-2ubuntu2
 libchromaprint11.4.3-1
-libcom-err21.44.1-1ubuntu1.2
+libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.7
@@ -100,7 +100,7 @@ libegl-mesa019.2.1-1ubuntu1~18.04.1
 libegl11.0.0-2ubuntu2.3
 libelf10.170-0.4ubuntu0.1
 libexpat12.2.5-3ubuntu0.2
-libext2fs21.44.1-1ubuntu1.2
+libext2fs21.44.1-1ubuntu1.3
 libfdisk12.31.1-0.4ubuntu3.4
 libffi63.2.1-8
 libfftw3-double33.3.7-1
@@ -125,7 +125,7 @@ libglx-mesa019.2.1-1ubuntu1~18.04.1
 libglx01.0.0-2ubuntu2.3
 libgme00.6.2-1
 libgmp102:6.1.2+dfsg-2
-libgnutls303.5.18-1ubuntu1.2
+libgnutls303.5.18-1ubuntu1.3
 libgomp18.3.0-6ubuntu1~18.04.1
 libgpg-error01.27-6
 libgraphite2-31.3.11-2
@@ -202,9 +202,9 @@ librsvg2-common2.40.20-2
 librtmp12.4+20151223.gitfa8646d.1-1
 librubberband21.8.1-7ubuntu2
 libsamplerate00.1.9-1
-libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2
-libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2
-libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2
+libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.1
+libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.1
+libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.1
 libsdl2-2.0-02.0.8+dfsg1-1ubuntu1.18.04.4
 libseccomp22.4.1-0ubuntu0.18.04.2
 libselinux12.7-2build2
@@ -223,7 +223,7 @@ libsodium231.0.16-2
 libsoxr00.1.2-3
 libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.2
-libss21.44.1-1ubuntu1.2
+libss21.44.1-1ubuntu1.3
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.5
 libssl1.11.1.1-1ubuntu2.1~18.04.5
 libstdc++68.3.0-6ubuntu1~18.04.1
@@ -312,8 +312,8 @@ mount2.31.1-0.4ubuntu3.4
 multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
-openjdk-8-jre-headless8u232-b09-0ubuntu1~18.04.1
-openjdk-8-jre8u232-b09-0ubuntu1~18.04.1
+openjdk-8-jre-headless8u242-b08-0ubuntu3~18.04
+openjdk-8-jre8u242-b08-0ubuntu3~18.04
 openssl1.1.1-1ubuntu2.1~18.04.5
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.3
