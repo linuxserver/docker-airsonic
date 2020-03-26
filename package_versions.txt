@@ -5,7 +5,7 @@ apt1.6.12
 base-files10.1ubuntu2.8
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
-bsdutils1:2.31.1-0.4ubuntu3.5
+bsdutils1:2.31.1-0.4ubuntu3.6
 bzip21.0.6-8.1ubuntu0.2
 ca-certificates-java20180516ubuntu1~18.04.1
 ca-certificates20180409
@@ -17,7 +17,7 @@ debianutils4.8.4
 diffutils1:3.6-1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
-fdisk2.31.1-0.4ubuntu3.5
+fdisk2.31.1-0.4ubuntu3.6
 ffmpeg7:3.4.6-0ubuntu0.18.04.1
 findutils4.6.0+git+20170828-2
 flac1.3.2-1
@@ -42,8 +42,8 @@ libacl12.2.52-3build1
 libapt-inst2.01.6.12
 libapt-pkg5.01.6.12
 libasn1-8-heimdal7.5.0+dfsg-1
-libasound2-data1.1.3-5ubuntu0.2
-libasound21.1.3-5ubuntu0.2
+libasound2-data1.1.3-5ubuntu0.4
+libasound21.1.3-5ubuntu0.4
 libass91:0.14.0-1
 libasyncns00.8-6
 libatk-bridge2.0-02.26.2-1
@@ -65,7 +65,7 @@ libavfilter67:3.4.6-0ubuntu0.18.04.1
 libavformat577:3.4.6-0ubuntu0.18.04.1
 libavresample37:3.4.6-0ubuntu0.18.04.1
 libavutil557:3.4.6-0ubuntu0.18.04.1
-libblkid12.31.1-0.4ubuntu3.5
+libblkid12.31.1-0.4ubuntu3.6
 libbluray21:1.0.2-3
 libbs2b03.1.0+dfsg-2.2
 libbsd00.8.7-1ubuntu0.1
@@ -101,7 +101,7 @@ libegl11.0.0-2ubuntu2.3
 libelf10.170-0.4ubuntu0.1
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
-libfdisk12.31.1-0.4ubuntu3.5
+libfdisk12.31.1-0.4ubuntu3.6
 libffi63.2.1-8
 libfftw3-double33.3.7-1
 libflac81.3.2-1
@@ -119,7 +119,7 @@ libgif75.1.4-2ubuntu0.1
 libgl1-mesa-dri19.2.8-0ubuntu0~18.04.3
 libgl11.0.0-2ubuntu2.3
 libglapi-mesa19.2.8-0ubuntu0~18.04.3
-libglib2.0-02.56.4-0ubuntu0.18.04.4
+libglib2.0-02.56.4-0ubuntu0.18.04.6
 libglvnd01.0.0-2ubuntu2.3
 libglx-mesa019.2.8-0ubuntu0~18.04.3
 libglx01.0.0-2ubuntu2.3
@@ -159,7 +159,7 @@ libldap-common2.4.45+dfsg-1ubuntu1.4
 libllvm91:9-2~ubuntu18.04.2
 liblz4-10.0~r131-2ubuntu3
 liblzma55.2.2-1.3
-libmount12.31.1-0.4ubuntu3.5
+libmount12.31.1-0.4ubuntu3.6
 libmp3lame03.100-2
 libmpg123-01.25.10-1
 libmysofa00.6~dfsg0-2ubuntu0.18.04.1
@@ -215,7 +215,7 @@ libsepol12.7-1
 libshine33.1.1-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
-libsmartcols12.31.1-0.4ubuntu3.5
+libsmartcols12.31.1-0.4ubuntu3.6
 libsnappy1v51.1.7-1
 libsndfile11.0.28-4ubuntu0.18.04.1
 libsndio6.11.1.0-3
@@ -240,7 +240,7 @@ libtwolame00.3.13-3
 libudev1237-3ubuntu10.39
 libunistring20.9.9-0ubuntu2
 libusb-1.0-02:1.0.21-2
-libuuid12.31.1-0.4ubuntu3.5
+libuuid12.31.1-0.4ubuntu3.6
 libva-drm22.1.0-3
 libva-x11-22.1.0-3
 libva22.1.0-3
@@ -308,7 +308,7 @@ locales2.27-3ubuntu1
 login1:4.5-1ubuntu2
 lsb-base9.20170808ubuntu1
 mawk1.3.3-17ubuntu3
-mount2.31.1-0.4ubuntu3.5
+mount2.31.1-0.4ubuntu3.6
 multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
@@ -331,7 +331,7 @@ tzdata2019c-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-util-linux2.31.1-0.4ubuntu3.5
+util-linux2.31.1-0.4ubuntu3.6
 x11-common1:7.7+19ubuntu7.1
 x11-utils7.7+3build1
 xkb-data2.23.1-1ubuntu1.18.04.1
