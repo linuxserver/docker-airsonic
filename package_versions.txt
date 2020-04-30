@@ -82,7 +82,7 @@ libchromaprint11.4.3-1
 libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
-libcups22.2.7-1ubuntu2.7
+libcups22.2.7-1ubuntu2.8
 libcurl47.58.0-2ubuntu3.8
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
@@ -194,7 +194,7 @@ libpng16-161.6.34-1ubuntu0.18.04.2
 libpostproc547:3.4.6-0ubuntu0.18.04.1
 libprocps62:3.3.12-3ubuntu1.2
 libpsl50.19.1-5build1
-libpulse01:11.1-1ubuntu7.4
+libpulse01:11.1-1ubuntu7.5
 libraw1394-112.1.2-1
 libroken18-heimdal7.5.0+dfsg-1
 librsvg2-22.40.20-2
@@ -312,8 +312,8 @@ mount2.31.1-0.4ubuntu3.6
 multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
-openjdk-8-jre-headless8u242-b08-0ubuntu3~18.04
-openjdk-8-jre8u242-b08-0ubuntu3~18.04
+openjdk-8-jre-headless8u252-b09-1~18.04
+openjdk-8-jre8u252-b09-1~18.04
 openssl1.1.1-1ubuntu2.1~18.04.5
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.3
