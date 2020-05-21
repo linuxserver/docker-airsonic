@@ -1,7 +1,7 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
-apt-utils1.6.12
-apt1.6.12
+apt-utils1.6.12ubuntu0.1
+apt1.6.12ubuntu0.1
 base-files10.1ubuntu2.8
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
@@ -39,8 +39,8 @@ java-common0.68ubuntu1~18.04.1
 krb5-locales1.16-2ubuntu0.1
 lame3.100-2
 libacl12.2.52-3build1
-libapt-inst2.01.6.12
-libapt-pkg5.01.6.12
+libapt-inst2.01.6.12ubuntu0.1
+libapt-pkg5.01.6.12ubuntu0.1
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound2-data1.1.3-5ubuntu0.5
 libasound21.1.3-5ubuntu0.5
@@ -327,7 +327,7 @@ tar1.29b-2ubuntu0.1
 ttf-dejavu-core2.37-1
 ttf-dejavu-extra2.37-1
 ttf-dejavu2.37-1
-tzdata2019c-0ubuntu0.18.04
+tzdata2020a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
