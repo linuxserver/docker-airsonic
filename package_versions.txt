@@ -194,7 +194,7 @@ libpng16-161.6.34-1ubuntu0.18.04.2
 libpostproc547:3.4.8-0ubuntu0.2
 libprocps62:3.3.12-3ubuntu1.2
 libpsl50.19.1-5build1
-libpulse01:11.1-1ubuntu7.9
+libpulse01:11.1-1ubuntu7.10
 libraw1394-112.1.2-1
 libroken18-heimdal7.5.0+dfsg-1
 librsvg2-22.40.20-2ubuntu0.2
@@ -224,7 +224,7 @@ libsoxr00.1.2-3
 libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
-libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.6
+libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssl1.11.1.1-1ubuntu2.1~18.04.6
 libstdc++68.4.0-1ubuntu1~18.04
 libswresample27:3.4.8-0ubuntu0.2
@@ -312,8 +312,8 @@ mount2.31.1-0.4ubuntu3.6
 multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
-openjdk-8-jre-headless8u252-b09-1~18.04
-openjdk-8-jre8u252-b09-1~18.04
+openjdk-8-jre-headless8u265-b01-0ubuntu2~18.04
+openjdk-8-jre8u265-b01-0ubuntu2~18.04
 openssl1.1.1-1ubuntu2.1~18.04.6
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.3
