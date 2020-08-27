@@ -162,7 +162,7 @@ liblzma55.2.2-1.3
 libmount12.31.1-0.4ubuntu3.6
 libmp3lame03.100-2
 libmpg123-01.25.10-1
-libmysofa00.6~dfsg0-2ubuntu0.18.04.1
+libmysofa00.6~dfsg0-3+deb10u1build1
 libncurses56.1-1ubuntu1.18.04
 libncursesw56.1-1ubuntu1.18.04
 libnettle63.4-1
