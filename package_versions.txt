@@ -39,6 +39,7 @@ java-common0.68ubuntu1~18.04.1
 krb5-locales1.16-2ubuntu0.2
 lame3.100-2
 libacl12.2.52-3build1
+libapparmor12.12-4ubuntu5.1
 libapt-inst2.01.6.12ubuntu0.1
 libapt-pkg5.01.6.12ubuntu0.1
 libasn1-8-heimdal7.5.0+dfsg-1
@@ -194,7 +195,7 @@ libpng16-161.6.34-1ubuntu0.18.04.2
 libpostproc547:3.4.8-0ubuntu0.2
 libprocps62:3.3.12-3ubuntu1.2
 libpsl50.19.1-5build1
-libpulse01:11.1-1ubuntu7.10
+libpulse01:11.1-1ubuntu7.11
 libraw1394-112.1.2-1
 libroken18-heimdal7.5.0+dfsg-1
 librsvg2-22.40.20-2ubuntu0.2
