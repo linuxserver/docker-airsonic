@@ -1,7 +1,7 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
-apt-utils1.6.12ubuntu0.1
-apt1.6.12ubuntu0.1
+apt-utils1.6.12ubuntu0.2
+apt1.6.12ubuntu0.2
 base-files10.1ubuntu2.10
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
@@ -10,7 +10,7 @@ bzip21.0.6-8.1ubuntu0.2
 ca-certificates-java20180516ubuntu1~18.04.1
 ca-certificates20201027ubuntu0.18.04.1
 coreutils8.28-1ubuntu1
-curl7.58.0-2ubuntu3.10
+curl7.58.0-2ubuntu3.12
 dash0.5.8-2.10
 debconf1.5.66ubuntu1
 debianutils4.8.4
@@ -40,8 +40,8 @@ krb5-locales1.16-2ubuntu0.2
 lame3.100-2
 libacl12.2.52-3build1
 libapparmor12.12-4ubuntu5.1
-libapt-inst2.01.6.12ubuntu0.1
-libapt-pkg5.01.6.12ubuntu0.1
+libapt-inst2.01.6.12ubuntu0.2
+libapt-pkg5.01.6.12ubuntu0.2
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound2-data1.1.3-5ubuntu0.5
 libasound21.1.3-5ubuntu0.5
@@ -84,7 +84,7 @@ libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.8
-libcurl47.58.0-2ubuntu3.10
+libcurl47.58.0-2ubuntu3.12
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -226,7 +226,7 @@ libspeex11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
-libssl1.11.1.1-1ubuntu2.1~18.04.6
+libssl1.11.1.1-1ubuntu2.1~18.04.7
 libstdc++68.4.0-1ubuntu1~18.04
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
@@ -315,7 +315,7 @@ ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openjdk-8-jre-headless8u275-b01-0ubuntu1~18.04
 openjdk-8-jre8u275-b01-0ubuntu1~18.04
-openssl1.1.1-1ubuntu2.1~18.04.6
+openssl1.1.1-1ubuntu2.1~18.04.7
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.5
 procps2:3.3.12-3ubuntu1.2
