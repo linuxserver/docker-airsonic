@@ -54,8 +54,8 @@ libatk1.0-02.28.1-1
 libatk1.0-data2.28.1-1
 libatspi2.0-02.28.0-1
 libattr11:2.4.47-2build1
-libaudit-common1:2.8.2-1ubuntu1
-libaudit11:2.8.2-1ubuntu1
+libaudit-common1:2.8.2-1ubuntu1.1
+libaudit11:2.8.2-1ubuntu1.1
 libavahi-client30.7-3.1ubuntu1.2
 libavahi-common-data0.7-3.1ubuntu1.2
 libavahi-common30.7-3.1ubuntu1.2
