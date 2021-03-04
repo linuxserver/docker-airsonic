@@ -235,7 +235,7 @@ libtasn1-64.13-2
 libthai-data0.1.27-2
 libthai00.1.27-2
 libtheora01.1.1+dfsg.1-14
-libtiff54.0.9-5ubuntu0.3
+libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libudev1237-3ubuntu10.44
