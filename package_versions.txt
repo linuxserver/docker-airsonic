@@ -10,7 +10,7 @@ bzip21.0.6-8.1ubuntu0.2
 ca-certificates-java20180516ubuntu1~18.04.1
 ca-certificates20210119~18.04.1
 coreutils8.28-1ubuntu1
-curl7.58.0-2ubuntu3.12
+curl7.58.0-2ubuntu3.13
 dash0.5.8-2.10
 debconf1.5.66ubuntu1
 debianutils4.8.4
@@ -84,7 +84,7 @@ libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.8
-libcurl47.58.0-2ubuntu3.12
+libcurl47.58.0-2ubuntu3.13
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -329,7 +329,7 @@ ttf-dejavu-core2.37-1
 ttf-dejavu-extra2.37-1
 ttf-dejavu2.37-1
 tzdata2021a-0ubuntu0.18.04
-ubuntu-keyring2018.09.18.1~18.04.0
+ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
 util-linux2.31.1-0.4ubuntu3.7
