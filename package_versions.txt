@@ -1,7 +1,7 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
-apt-utils1.6.13
-apt1.6.13
+apt-utils1.6.14
+apt1.6.14
 base-files10.1ubuntu2.10
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
@@ -40,8 +40,8 @@ krb5-locales1.16-2ubuntu0.2
 lame3.100-2
 libacl12.2.52-3build1
 libapparmor12.12-4ubuntu5.1
-libapt-inst2.01.6.13
-libapt-pkg5.01.6.13
+libapt-inst2.01.6.14
+libapt-pkg5.01.6.14
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound2-data1.1.3-5ubuntu0.5
 libasound21.1.3-5ubuntu0.5
@@ -56,9 +56,9 @@ libatspi2.0-02.28.0-1
 libattr11:2.4.47-2build1
 libaudit-common1:2.8.2-1ubuntu1.1
 libaudit11:2.8.2-1ubuntu1.1
-libavahi-client30.7-3.1ubuntu1.2
-libavahi-common-data0.7-3.1ubuntu1.2
-libavahi-common30.7-3.1ubuntu1.2
+libavahi-client30.7-3.1ubuntu1.3
+libavahi-common-data0.7-3.1ubuntu1.3
+libavahi-common30.7-3.1ubuntu1.3
 libavc1394-00.5.4-4build1
 libavcodec577:3.4.8-0ubuntu0.2
 libavdevice577:3.4.8-0ubuntu0.2
