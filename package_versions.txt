@@ -73,7 +73,7 @@ libbsd00.8.7-1ubuntu0.1
 libbz2-1.01.0.6-8.1ubuntu0.2
 libc-bin2.27-3ubuntu1.4
 libc62.27-3ubuntu1.4
-libcaca00.99.beta19-2ubuntu0.18.04.2
+libcaca00.99.beta19-2ubuntu0.18.04.3
 libcairo21.15.10-2ubuntu0.1
 libcap-ng00.7.7-3.1
 libcdio-cdda210.2+0.94+2-2build1
