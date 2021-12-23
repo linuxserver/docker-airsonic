@@ -207,7 +207,7 @@ libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.3
 libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
 libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.3
 libsdl2-2.0-02.0.8+dfsg1-1ubuntu1.18.04.4
-libseccomp22.5.1-1ubuntu1~18.04.1
+libseccomp22.5.1-1ubuntu1~18.04.2
 libselinux12.7-2build2
 libsemanage-common2.7-2build2
 libsemanage12.7-2build2
@@ -313,8 +313,8 @@ mount2.31.1-0.4ubuntu3.7
 multiarch-support2.27-3ubuntu1.4
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
-openjdk-8-jre-headless8u292-b10-0ubuntu1~18.04
-openjdk-8-jre8u292-b10-0ubuntu1~18.04
+openjdk-8-jre-headless8u312-b07-0ubuntu1~18.04
+openjdk-8-jre8u312-b07-0ubuntu1~18.04
 openssl1.1.1-1ubuntu2.1~18.04.14
 passwd1:4.5-1ubuntu2
 perl-base5.26.1-6ubuntu0.5
