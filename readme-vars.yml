@@ -69,6 +69,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "13.01.22:", desc: "Deprecate in favor of airsonic-advanced." }
   - { date: "24.03.19:", desc: "Switching to new Base images, shift to arm32v7 tag." }
   - { date: "26.01.19:", desc: "Add pipeline logic and multi arch." }
   - { date: "05.01.19:", desc: "Linting fixes." }
